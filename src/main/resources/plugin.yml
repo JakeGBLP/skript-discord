@@ -1,0 +1,7 @@
+name: skript-discord
+version: '1.0.0'
+main: it.jakegblp.skriptdiscord.SkriptDiscord
+api-version: '1.21'
+authors: [ JakeGBLP ]
+depends: [ Skript ]
+description: Skript addon for Discord access.
